@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kanna (5.0.0)
+  - ReachabilitySwift (5.0.0)
+  - SwiftLint (0.36.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Kanna (~> 5.0.0)
+  - ReachabilitySwift
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kanna
+    - ReachabilitySwift
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kanna: a32875df62975f8f4b871e933b4ea1a5c3b8be0f
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SwiftLint: fc9859e4e1752340664851f667bb1898b9c90114
+
+PODFILE CHECKSUM: 141b4f787a49109628eb7a41ace4fd6647775b4b
+
+COCOAPODS: 1.9.1

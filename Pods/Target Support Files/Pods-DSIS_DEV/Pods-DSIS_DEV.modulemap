@@ -1,0 +1,6 @@
+framework module Pods_DSIS_DEV {
+  umbrella header "Pods-DSIS_DEV-umbrella.h"
+
+  export *
+  module * { export * }
+}

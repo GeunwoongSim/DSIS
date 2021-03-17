@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-DSIS_DEV/Pods-DSIS_DEV-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Kanna/Kanna.framework
+${BUILT_PRODUCTS_DIR}/ReachabilitySwift/Reachability.framework
