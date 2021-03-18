@@ -2,11 +2,10 @@
 
 <img src="README_IMG/AppIcon.png" width="250">
 
----
 
 ## API
 
-###[Alamofire](https://github.com/Alamofire/Alamofire)
+### [Alamofire](https://github.com/Alamofire/Alamofire)
 
 - JSON 으로 서버로 부터 정보를 받아올 때 사용
 - 서버에서 이미지 파일의 data를 받아올 때 사용
@@ -45,7 +44,7 @@ if let doc = try? Kanna.HTML(html: html, encoding: String.Encoding.utf8){
 }
 ~~~
 
-###[Reachability](https://github.com/ashleymills/Reachability.swift)
+### [Reachability](https://github.com/ashleymills/Reachability.swift)
 
 - 데이터, Wifi 연결확인
 
@@ -86,7 +85,6 @@ private func reachabilityCheck(){ //네트워크 확인
 }
 ~~~
 
----
 
 ## Timetable
 
@@ -100,7 +98,6 @@ private func reachabilityCheck(){ //네트워크 확인
 
 2021.01.22 App Store 판매중단 
 
----
 
 ## Screen Shots
 <img src="README_IMG/StoreImage.png" width="250"><img src="README_IMG/MainHome.png" width="250"><img src="README_IMG/StudentInfo.png" width="250">
@@ -109,7 +106,6 @@ private func reachabilityCheck(){ //네트워크 확인
 
 
 
----
 
 ## 좋았던점
 
@@ -117,7 +113,6 @@ private func reachabilityCheck(){ //네트워크 확인
 2. 대부분의 소스를 혼자 구성해서 아쉬운점이 많았지만 혼자서 여러 소스를 작성했기 때문에 부족한 점을 확실히 느낄 수 있었고 여러 시도를 해봐서 경험에 있어서는 좋았던거 같다.
 3. iOS애플리케이션 공부를 시작하고 3개월이 되지않은 시점부터 시작한 프로젝트라 많은 것을 배우게 해준 프로젝트다.
 
----
 
 ## 아쉬운점 
 
