@@ -100,24 +100,6 @@ private func reachabilityCheck(){ //네트워크 확인
 
 
 ## Screen Shots
-<img src="README_IMG/StoreImage.png" width="250"><img src="README_IMG/MainHome.png" width="250"><img src="README_IMG/StudentInfo.png" width="250">
+<img src="README_IMG/StoreImage.png" width="250"> <img src="README_IMG/MainHome.png" width="250"> <img src="README_IMG/StudentInfo.png" width="250">
 
-<img src="README_IMG/ThisStopIs.png" width="250"><img src="README_IMG/Timetable.png" width="250">
-
-
-
-
-## 좋았던점
-
-1. 처음으로 스토어에 제출하고 출시해본 애플리케이션이었다.
-2. 대부분의 소스를 혼자 구성해서 아쉬운점이 많았지만 혼자서 여러 소스를 작성했기 때문에 부족한 점을 확실히 느낄 수 있었고 여러 시도를 해봐서 경험에 있어서는 좋았던거 같다.
-3. iOS애플리케이션 공부를 시작하고 3개월이 되지않은 시점부터 시작한 프로젝트라 많은 것을 배우게 해준 프로젝트다.
-
-
-## 아쉬운점 
-
-1. swiftLint를 쓰고 싶었는데 못썼다
-2. 싱글톤 패턴조차 모르고 작성한 어플이라 지금 다시 돌아보니 싱글톤을 사용할 수 있었으면 각 뷰간의 정보 전달이 더 편하고 좋았을거 같다
-3. 레이아웃 구성에 있어 오토레이아웃을 모르고 소스를 작성해서 각 화면에 대해서 유동적으로 UI를 구성하려고 이 변수 저 변수를 사용한게 아쉽다
-4. 이전까지 혼자 공부하면서 뷰 하나에 소스 하나를 매칭시켜서 작성했어서 소스의 재사용성이 너무 낮고 컨트롤러가 너무 비대해졌다
-5. 대부분의 소스를 혼자 작성해서 피드백을 받을 수 없었던 점과 많은 정보를 익힐 수 없었던게 아쉽다
+<img src="README_IMG/ThisStopIs.png" width="250"> <img src="README_IMG/Timetable.png" width="250">
